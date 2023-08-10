@@ -1,10 +1,9 @@
 package study.javastudy;
 
-import java.sql.SQLOutput;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Time {
+public class DateEx {
     public static void main(String[] args) {
         Date date = new Date();
         System.out.println(date.toString()); //현재 날짜
