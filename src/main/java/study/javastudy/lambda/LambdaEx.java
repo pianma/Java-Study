@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.lambda;
 
 public interface LambdaEx {
 

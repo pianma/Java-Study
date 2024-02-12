@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.thread;
 /*
     쓰레드란?
     프로그램마다 메모리를 할당받아서 실행된다.

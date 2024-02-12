@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.generic;
 
 class EmployeeInfo{
     public int rank;

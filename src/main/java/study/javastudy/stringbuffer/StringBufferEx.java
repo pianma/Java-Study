@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.stringbuffer;
 
 public class StringBufferEx {
     /*

@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.date;
 
 import java.util.Calendar;
 

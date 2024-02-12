@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.enumEx;
 // 클래스로 상수를 정리하게 되면 각각의 멤버를 배열처럼 열거할 수 없다.
 // enum을 쓰면 어떠한 데이터가 있는지 몰라도 마치 배열처럼 그 안에 있는 데이터를 하나씩 꺼내서 쓸 수 있다. -> values 사용
 // 열거형은 연관된 값들을 저장한다. 또 그 값들이 변경되지 않도록 보장한다.

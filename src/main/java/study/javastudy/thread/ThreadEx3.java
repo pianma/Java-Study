@@ -1,4 +1,4 @@
-package study.javastudy;
+package study.javastudy.thread;
 
 public class ThreadEx3 {
 

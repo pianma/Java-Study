@@ -1,4 +1,6 @@
-package study.javastudy;
+package study.javastudy.lambda;
+
+import study.javastudy.lambda.LambdaEx;
 
 public class CompareEx {
     public static void exec(LambdaEx lambdaEx){
