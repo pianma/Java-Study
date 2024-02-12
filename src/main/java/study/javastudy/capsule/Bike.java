@@ -11,4 +11,12 @@ public class Bike {
     public void setSpeed(int speed) {
         if(speed > 0) this.speed = speed;
     }
+
+    public void inCreaseSpeed(int howMuch){
+        this.speed += howMuch;
+    }
+
+    public void decreaseSpeed(int howMuch){
+        this.speed -= howMuch;
+    }
 }

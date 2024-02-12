@@ -13,11 +13,13 @@ public class BikeRunner {
         Bike kia = new Bike();
 
         hyundai.setSpeed(100);
-
         hyundai.getSpeed();
 
         kia.setSpeed(200);
         kia.getSpeed();
+
+        kia.decreaseSpeed(100);
+        hyundai.inCreaseSpeed(100);
 
         System.out.println(kia.getSpeed());
         System.out.println(hyundai.getSpeed());
