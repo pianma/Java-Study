@@ -5,6 +5,11 @@ public class Person {
     private String name;
     private String email;
 
+    public Person(String name){
+        System.out.println("Person Constructor");
+        this.name = name;
+    }
+
     public int getAge() {
         return age;
     }
